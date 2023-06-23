@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "DM Serif Display", Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(https://lh3.googleusercontent.com/ka8DAEkzePtUe4cglH3zaYW719XHH_OanxcrcbFM7YcuiMYyy8ggjDjgjRAIX8wNnpShEnsBatKTylZSi5l-BRGWRtPMexACJQDWpUcgG2kE1A7c6_XLVaZuMjDjdvcJDBWb9tZ8MpGu2BrrZuIcKC7NkT_IensDEipUe05PVQbrBjEOOewrJf6s4KQ4_wEF9a2QBfbWZ7fO8F3sacp3hIn6LVk_WsZzNaB6dwhNTbnAV_s0CNVc8d-mBKNQj_lxrAbqLBuOtR4LGCUPJYlgsAC5cuJwkHGmKNcalz5Dd9YQ6zXn_HVQKmOChEewYvjltzkfdBOn5nrk9B0oP-v0jNd_lJbtQKekM3nKZ7ELpN-D41VdW1M5OCSMCS4ckzmQqCuox5al-BigQGxcuUCl45oKEp2YyrZYCtCWvVvd4xDRDdlof_ddRAeiN-sAVYbVdYjivSH8dgYx5YqUDRla5sSO4LDKd5Z13kVo8bysn-2TAPBlYNNKR3Fxck22Z4LqPSup7eBaZbgmB_X8RltShMvOelhvLCcNs-YCJfL9U2ExBnuAERCXMmfZYCR5eHV5TyAlIHazYy19ZvVySgbFXHHwjwWuZlIloijhbGqD0LNJwabd9V3Nyg4K349pGBopG8Otb-qEw7tGERVpZGgFGA44PyQJ49oM6anD1Dt8S43JEuG-e_7KS7id39MJItkiHdRFL_gqiLldZOk03HueliMW0eOlx4Z8k2Ov2Ix2cY08xL3dK88IIF5ga9pK5dLkzw_yGnrwMLSr0nHajZZiJ1Ezub6BUL1Q4HgYsZX6jsJduYS4VMbn3ERfENeqE4KD_jKtC4QiBPqp2qQIbkIddZi9C_UAOp5BhdXYkwNB5JEHC8uuUYYst_TCB0UaYwyYYf858OzZP_Y46ru1K0Tb5IMrXjEcZ2imAMfH-Ww2_pyNmpLeFhF03jFHPxbbV9O8FZVZ9Cd3afLK-QREXW0-oLCBIhXwI-Opw9AaZFI8i0k4AgpgpSYI3QY=w1126-h632-s-no?authuser=0);
+  background-size: 100%;
+  
+}
+
+.navbar{
+    background-color: black;
+}
+.navbar h1{
+    color: white;
+    margin-left: 35%;
+    font-size: 7vh;
+
+}
+.navbar a{
+    font-size: 5vh;
+ color: #20B2AA;
+    margin-left: 12%;
+  
+}
+.inicio img{
+    width: 400px;
+    margin-top: 9%;
+    margin-left: 10%;
+    border-radius: 25%;
+}
+.inicio{
+    display: flex;
+}
+.inicio h3{
+    color: white;
+    font-size: 12vh;
+    margin-top: 9%;
+    margin-left: 15%;
+    margin-right: 20%;
+}
+ .noticias{
+    margin-top: 16%;
+ }
+ .noticias h2{
+  margin-left: 40%;
+  font-size: 7vh;
+  color: #191970	;
+ }
+ .noticias img{
+    margin-top: 3%;
+    margin-left: 28%;
+    border-radius: 3%;
+ }
+
+ .negocios h2{
+    margin-left: 40%;
+    font-size: 7vh;
+    margin-top: 10%;
+    color: #191970;
+ }
+
+ .negocios img{
+width: 550px;
+margin-left: 50%;
+margin-top: 3%;
+border-radius: 3%;
+
+ }
+ 
+ .tabelaa h2{
+    margin-left: 20%;
+    font-size: 7vh;
+    margin-top: 10%;
+    color: #191970;
+ }
+ button{
+    font-size:4vh;
+    width: 300px;
+    height: 40px;
+    margin-left: 75%
+;
+margin-top: 5%;
+    border-radius:  10%;
+    margin-bottom: 2%;
+ }
+ .tabelaa img{
+    width: 450px;
+    border-radius: 2%;
+    margin-top: 5%;
+    margin-left: 30%;
+ }
